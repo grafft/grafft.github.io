@@ -1,1 +1,11 @@
-
+titles:
+  about: about
+  blog: blog
+  cv: cv
+  news: news
+  projects: projects
+  publications: publications
+  repositories: repositories
+  teaching: teaching
+  submenus: submenus
+  unk: page not found

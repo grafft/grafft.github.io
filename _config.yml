@@ -251,6 +251,9 @@ jekyll-minifier:
   uglifier_args:
     harmony: true
 
+# multi language settings
+languages: ["en", "ru-ru"]
+default_locale_in_subfolder: false
 # -----------------------------------------------------------------------------
 # Jekyll Archives
 # -----------------------------------------------------------------------------

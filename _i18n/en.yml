@@ -10,8 +10,6 @@ titles:
   teaching: teaching
   submenus: submenus
   unk: page not found
-pabout:
-  subtitle: Principal researcher at AIRI and FRC CSC RAS<br/>Head of the Center for Cognitive Modeling at MIPT
-  address: <p>Moscow, Russia</p>
-p404:
-  description: Looks like there has been a mistake. Nothing exists here.
+  about_subtitle: Principal researcher at AIRI and FRC CSC RAS<br/>Head of the Center for Cognitive Modeling at MIPT
+  about_address: <p>Moscow, Russia</p>
+  p404_description: Looks like there has been a mistake. Nothing exists here.

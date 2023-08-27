@@ -5,6 +5,7 @@ titles:
   news: news
   projects: projects
   publications: publications
+  s_publications: selected publications
   repositories: repositories
   teaching: teaching
   submenus: submenus

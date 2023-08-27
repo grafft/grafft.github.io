@@ -29,15 +29,6 @@
     {% endif %}
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url | bust_css_cache }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
-
-    <!-- Toogle language -->
-    <li class="nav-item active">
-    {% if site.lang == "en" %}
-    <a class="nav-link" href="{{site.baseurl_root}}/ru-ru{{page.url}}"> RU </a>
-    {% elsif site.lang == "ru-ru" %}
-    <a class="nav-link" href="{{site.baseurl_root}}{{page.url}}"> EN </a>
-    {% endif %}
-    </li>
         
     <!-- Dark Mode -->
     {% if site.enable_darkmode %}

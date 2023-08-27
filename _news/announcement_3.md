@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Our paper “When to Switch: Planning and Learning For Partially Observable Multi-Agent Pathfinding” has been accepted in <a href='https://cis.ieee.org/publications/t-neural-networks-and-learning-systems'>IEEE TNNLS journal</a>.

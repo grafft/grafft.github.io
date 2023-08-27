@@ -2,7 +2,7 @@
 layout: about
 title: titles.about
 permalink: /
-subtitle: Principal researcher at AIRI and FRC CSC RAS<br/>Head of the Center for Cognitive Modeling at MIPT
+subtitle: p_about.subtitle
 
 profile:
   align: right

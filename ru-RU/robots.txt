@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://grafft.github.io/ru-RU/sitemap.xml

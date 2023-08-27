@@ -1,1 +1,11 @@
-
+titles:
+  about: Обо мне
+  blog: блог
+  cv: резюме
+  news: новости
+  projects: проекты
+  publications: публикации
+  repositories: репозитории
+  teaching: преподавание
+  submenus: подменю
+  unk: страница не найдена

@@ -252,7 +252,7 @@ jekyll-minifier:
     harmony: true
 
 # multi language settings
-languages: ["en", "ru"]
+languages: ["en", "ru-RU"]
 default_locale_in_subfolder: false
 # -----------------------------------------------------------------------------
 # Jekyll Archives

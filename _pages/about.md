@@ -2,14 +2,14 @@
 layout: about
 title: titles.about
 permalink: /
-subtitle: p_about.subtitle
+subtitle: pabout.subtitle
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Moscow, Russia</p>
+    pabout.address
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts

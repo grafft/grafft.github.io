@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: materials for courses and scientific advising.
+description: materials for courses and scientific advising
 nav: true
 nav_order: 5
 ---

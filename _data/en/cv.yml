@@ -15,22 +15,22 @@
       institution: Institute for System Analysis of RAS, Moscow, Russia
       year: 2015
       description:
-        - Specialized in modeling of goal-oriented behavior of intelligent agents and their coalitions.
-        - Thesis title is Investigation of methods, development of models and algorithms for formation of elements of sign-based worldview of the actor.
+        - Specialized in modeling of goal-oriented behavior of intelligent agents and their coalitions
+        - Thesis title is Investigation of methods, development of models and algorithms for formation of elements of sign-based worldview of the actor
     - title: Master’s degree
       institution: Moscow Institute of Physics and Technology, Department of Applied Mathematics and Management, Dolgoprudny, Russia
       year: 2011
       description:
-        - Majors are technologies of active databases, computer graphics, game theory and decision making, effective algorithms, decomposition in optimization.
-        - Specialized in logical methods (AQ, JSM) of data mining and multi-agent systems.
-        - Thesis title is Investigation and modeling of group behavior for multifunctional agents.
+        - Majors are technologies of active databases, computer graphics, game theory and decision making, effective algorithms, decomposition in optimization
+        - Specialized in logical methods (AQ, JSM) of data mining and multi-agent systems
+        - Thesis title is Investigation and modeling of group behavior for multifunctional agents
     - title: Bachelor of Physics
       institution: Novosibirsk State University, Department of Physics, Novosibirsk, Russia
       year: 2009
       description:
-        - Majors are operational systems, digital integrated circuits, introduction to CAD, microprocessors, information networks and systems, object-oriented analysis and design.
-        - Specialized in semantic integration of databases. 
-        - Thesis title is Semantic integration of biological databases.
+        - Majors are operational systems, digital integrated circuits, introduction to CAD, microprocessors, information networks and systems, object-oriented analysis and design
+        - Specialized in semantic integration of databases.
+        - Thesis title is Semantic integration of biological databases
 
 - title: Teaching Experience
   type: time_table
@@ -39,18 +39,18 @@
       institution: Moscow Institute of Physics and Technology, Phystech School of Applied Mathematics and Informatics, Dolgoprudny, Russia
       year: 2019 - Present
       description:
-        - Seminars on Basis of Operation Systems and Basis of Object-Oriented Programming.
-        - Lectures on Introduction in AI and Reinforcement Learning.
+        - Seminars on Basis of Operation Systems and Basis of Object-Oriented Programming
+        - Lectures on Introduction in AI and Reinforcement Learning
     - title: Associate Professor
       institution: National Research University Higher School of Economics, Faculty of Computer Science, Moscow, Russia
       year: 2015 - 2019
       description:
-        - Seminar on Intelligent Data Mining.
+        - Seminar on Intelligent Data Mining
     - title: Assistant Lecturer
       institution: Peoples’ Friendship University of Russia, Department of Computer Science, Moscow, Russia
       year: 2011 - 2016
       description:
-        - Lectures on Intelligent Dynamic Systems, Theoretical Computer Science and Intelligent Data Analysis.
+        - Lectures on Intelligent Dynamic Systems, Theoretical Computer Science and Intelligent Data Analysis
 
 - title: Research Experience
   type: time_table
@@ -59,15 +59,15 @@
       institution: Artificial Intelligence Research Institute, Neural-symbolic team, Moscow, Russia
       year: 2021 - Present
       description:
-        - Leading non-profit organization in the field of Artificial Intelligence – http://airi.net.
+        - Leading non-profit organization in the field of Artificial Intelligence – http://airi.net
         - title: Reinforcement learning in multi-agent systems
           contents: 
-            - Switching algorithms of planning-based and learning-based multi-agent path finding methods.
-            - Monte-Carlo approach in multi-agent systems.
+            - Switching algorithms of planning-based and learning-based multi-agent path finding methods
+            - Monte-Carlo approach in multi-agent systems
         - title: Neural-symbolic integration
           contents: 
-            - Disentangled representations and object-oriented world models.
-            - Vector symbolic architectures in VQA and robot navigation setting.
+            - Disentangled representations and object-oriented world models
+            - Vector symbolic architectures in VQA and robot navigation setting
           
 
 - title: Honors and Awards
@@ -82,24 +82,24 @@
   contents:
     - title: Computer Cognitive Modeling
       items: 
-        - Semiotics.
-        - Sign-based World Model.
-    - title: Embodied AI.
+        - Semiotics
+        - Sign-based World Model
+    - title: Embodied AI
       items:
-        - Cognitive Robotics.
-        - Behaviour planning.
-        - Language models for planning.
-    - title: Multi-agent systems.
+        - Cognitive Robotics
+        - Behaviour planning
+        - Language models for planning
+    - title: Multi-agent systems
       items:
-        - Multi-agent planning.
-        - Multi-agent reinforcement learning.
-    - title: Reinforcement Learning.
+        - Multi-agent planning
+        - Multi-agent reinforcement learning
+    - title: Reinforcement Learning
       items:
-        - Model-based learning and planning.
-        - Transformer-based world models.
-        - Structured world models.
+        - Model-based learning and planning
+        - Transformer-based world models
+        - Structured world models
         
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> snowboarding, ski-touring, badminton, football.
+    - <u>Hobbies:</u> snowboarding, ski-touring, badminton, football

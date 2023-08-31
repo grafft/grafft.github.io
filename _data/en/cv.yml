@@ -68,11 +68,57 @@
           contents: 
             - Disentangled representations and object-oriented world models
             - Vector symbolic architectures in VQA and robot navigation setting
-          
-
+    - title: Principal Research Fellow, Head of Laboratory
+      institution: Federal Research Center “Computer Science and Control” of Russian Academy of Sciences, Moscow, Russia
+      year: 2010 - Present
+      description:
+        - Leading academic institute in Computer Science and High-performance computing – http://frccsc.ru
+        - title: Cognitive modeling
+          contents: 
+            - Psychologically inspired models of human behavior based on theory of sign-based world model
+            - Biologically inspired models of sign components - image, significance and personal meaning
+            - Algorithms of behavior planning and goal setting procedures
+        - title: Machine learning and multi-agent systems
+          contents: 
+            - The composite logical method to extract cause-effect relationships
+            - Algorithms of planning and role distribution in coalition of cognitive agents          
+        - title: Cognitive Robotics
+          contents: 
+            - Multi-layer control system for coalition of cognitive robots         
+    - title: Director, Head of Laboratory
+      institution: Moscow Institute of Physics and Technology, Center for Cognitive Modeling, Dolgoprudny, Russia
+      year: 2018 - Present
+      description:
+        - Leading University in Russia in Physics and Computer Science – http://cogmodel.mipt.ru
+        - title: Applied research in self-driving cars and mobile robotics
+          contents: 
+            - New framework for behavior planning of self-driven cars based on Apollo-auto
+            - Original methods of neural-based object segmentation, detection, tracking for mobile robots
+        - title: Reinforcement learning
+          contents: 
+            - Hierarchical reinforcement learning and learning from demonstrations
+            - Learning-based methods for visual navigation in indoor scenes          
+        - title: Neuromorphic computing
+          contents: 
+            - Architecture of the hierarchical intrinsically motivated agent (HIMA)
+            - Improved variants of hierarchical temporal memory
+    - title: Research Fellow
+      institution: National Research University Higher School of Economics, Laboratory of Process-Aware Information Systems (PAIS Lab), Moscow, Russia
+      year: 2015 - 2018
+      description:
+        - Leading University in Russia in Economics and Computer Science - http://hse.ru
+        - title: Investigation of learning mechanisms based on sign representations in the problem of collective behavior planning
+            
+            
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2023
+      items:
+        - I led the SkillFusion team, which secured the first place in the CVPR Habitat competition
+    - year: 2019
+      items:
+        - I led the CDS team, which took first place in the NeurIPS MineRL competition
     - year: 2017
       items: 
         - Russian Academy of Sciences Medal for Young Scientists

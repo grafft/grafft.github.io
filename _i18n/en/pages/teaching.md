@@ -3,6 +3,7 @@
 * Lectures on <a href='http://rairi.ru/wiki/index.php/Введение_в_методы_искусственного_интеллекта'>Introduction in AI</a> in <a href='http://rairi.ru/wiki/index.php/Магистерская_программа_МТИИ'>AI master's program</a>
 * Scientific advisor of PhD these:
   - Alexey Staroverov (2023, "Methods and algorithms of learnable visual navigation of mobile robots")
+  - Alexey Skynnik (2023, "Reinforcement learning method for navigation tasks")
 * Scientific advisor of master's these:
   - Georgy Gorbov (2023, "Adaptive maneur planning in Apollo platform")
   - Mikhail Melkumov (2023, "Offline reinforcement learning in interactive planning for road intersection scenarios")

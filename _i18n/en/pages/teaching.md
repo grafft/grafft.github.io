@@ -2,7 +2,7 @@
 * Lectures on <a href='http://rairi.ru/wiki/index.php/Машинное_обучение_с_подкреплением'>Reinforcement Learning</a> in <a href='http://rairi.ru/wiki/index.php/Магистерская_программа_МТИИ'>AI master's program</a>
 * Lectures on <a href='http://rairi.ru/wiki/index.php/Введение_в_методы_искусственного_интеллекта'>Introduction in AI</a> in <a href='http://rairi.ru/wiki/index.php/Магистерская_программа_МТИИ'>AI master's program</a>
 * Scientific advisor of PhD these:
-  - Alexey Starover (2023, "Methods and algorithms of learnable visual navigation of mobile robots")
+  - Alexey Staroverov (2023, "Methods and algorithms of learnable visual navigation of mobile robots")
 * Scientific advisor of master's these:
   - Georgy Gorbov (2023, "Adaptive maneur planning in Apollo platform")
   - Mikhail Melkumov (2023, "Offline reinforcement learning in interactive planning for road intersection scenarios")
@@ -19,7 +19,7 @@
 <a href='https://www.hse.ru/en/'>National Research University Higher School of Economics</a>, Faculty of Computer Science, Moscow, Russia
 * Seminar on Intelligent Data Mining
 * Scientific advisor of PhD these:
-  - Alexey Kovalev (2022, "Development of methods and algorithms for neuro-symbolic representation of scenes in multimodal tasks")
+  - Alexey Kovalev (2022, <a href='https://www.hse.ru/sci/diss/682448753'>"Methods and algorithms of neuro-symbolic scene representation in multimodal tasks"</a>)
 
 <a href='https://eng.rudn.ru/?ysclid=lltio4bjo1767975563'>Peoples’ Friendship University of Russia</a>, Department of Computer Science, Moscow, Russia
 * Lectures on Intelligent Dynamic Systems, Theoretical Computer Science, and Intelligent Data Analysis

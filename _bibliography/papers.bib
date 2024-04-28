@@ -1,3 +1,159 @@
+
+@article{Chuganskaya2024,
+  bibtex_show={true},
+  abbr={IGPL},
+  dimensions={true},
+  selected={false},
+	title = {Sign-Based Image Criteria for Social Interaction Visual Question Answering},
+	volume = {32},
+	url = {https://academic.oup.com/jigpal/advance-article-abstract/doi/10.1093/jigpal/jzae026/7632103},
+	doi = {10.1093/jigpal/jzae026},
+	abstract = {The multi-modal tasks have started to play a significant role in the research on Artificial Intelligence. A particular example of that domain is visuallinguistic tasks, such as Visual Question Answering. The progress of modern machine learning systems is determined, among other things, by the data on which these systems are trained. Most modern visual question answering datasets contain limited type questions that can be answered either by directly accessing the image itself or by using external data. At the same time, insufficient attention is paid to the issues of social interactions between people, which limits the scope of visual question answering systems. In this paper, we propose criteria by which images suitable for social interaction visual question answering can be selected for composing such questions, based on psychological research. We believe this should serve the progress of visual question answering systems.},
+	number = {3},
+	journaltitle = {Logic Journal of the {IGPL}},
+	author = {Chuganskaya, Anfisa A and Kovalev, Alexey K and Panov, Aleksandr I},
+	date = {2024},
+	keywords = {mypub, mipt, airi, frccsc\_other, q2scopusprelim}
+}
+
+
+@inproceedings{Alhaddad2024,
+  bibtex_show={true},
+  abbr={AAAI},
+  pdf={npfield2024.pdf},
+  dimensions={true},
+  selected={true},
+	title = {Neural Potential Field for Obstacle-Aware Local Motion Planning},
+	url = {https://arxiv.org/pdf/2310.16362.pdf},
+	abstract = {Model predictive control ({MPC}) may provide local motion planning for mobile robotic platforms. The challenging aspect is the analytic representation of collision cost for the case when both the obstacle map and robot footprint are arbitrary. We propose a Neural Potential Field: a neural network model that returns a differentiable collision cost based on robot pose, obstacle map, and robot footprint. The differentiability of our model allows its usage within the {MPC} solver. It is computationally hard to solve problems with a very high number of parameters. Therefore, our architecture includes neural image encoders, which transform obstacle maps and robot footprints into embeddings, which reduce problem dimensionality by two orders of magnitude. The reference data for network training are generated based on algorithmic calculation of a signed distance function. Comparative experiments showed that the proposed approach is comparable with existing local planners: it provides trajectories with outperforming smoothness, comparable path length, and safe distance from obstacles. Experiment on Husky {UGV} mobile robot showed that our approach allows real-time and safe local planning. The code for our approach is presented at https://github.com/cog-isa/{NPField} together with demo video.},
+	eventtitle = {{ICRA} 2024},
+	booktitle = {{ICRA} 2024},
+	author = {Alhaddad, Muhammad and Mironov, Konstantin and Staroverov, Aleksey and Panov, Aleksandr},
+	date = {2024},
+	keywords = {myconf, frccsc, mipt, airi, confastar}
+}
+
+@inproceedings{Skrynnik2024b,
+  bibtex_show={true},
+  abbr={AAAI},
+  pdf={mats2024.pdf},
+  dimensions={true},
+  selected={true},
+	title = {Decentralized Monte Carlo Tree Search for Partially Observable Multi-agent Pathfinding},
+	volume = {38},
+	url = {https://ojs.aaai.org/index.php/AAAI/article/view/29703},
+	doi = {10.1609/aaai.v38i16.29703},
+	abstract = {The Multi-Agent Pathfinding ({MAPF}) problem involves finding a set of conflict-free paths for a group of agents confined to a graph. In typical {MAPF} scenarios, the graph and the agents’ starting and ending vertices are known beforehand, allowing the use of centralized planning algorithms. However, in this study, we focus on the decentralized {MAPF} setting, where the agents may observe the other agents only locally and are restricted in communications with each other. Specifically, we investigate the lifelong variant of {MAPF}, where new goals are continually assigned to the agents upon completion of previous ones. Drawing inspiration from the successful {AlphaZero} approach, we propose a decentralized multi-agent Monte Carlo Tree Search ({MCTS}) method for {MAPF} tasks. Our approach utilizes the agent’s observations to recreate the intrinsic Markov decision process, which is then used for planning with a tailored for multi-agent tasks version of neural {MCTS}. The experimental results show that our approach outperforms state-of-theart learnable {MAPF} solvers. The source code is available at https://github.com/{AIRI}-Institute/mats-lp.},
+	eventtitle = {{AAAI} 2024},
+	pages = {17531--17540},
+	booktitle = {Proceedings of the {AAAI} Conference on Artificial Intelligence},
+	author = {Skrynnik, Alexey and Andreychuk, Anton and Yakovlev, Konstantin and Panov, Aleksandr},
+	date = {2024},
+	keywords = {myconf, scopus, frccsc, airi, confastar}
+}
+
+
+@inproceedings{Skrynnik2024,
+  bibtex_show={true},
+  abbr={AAAI},
+  pdf={follower2024.pdf},
+  dimensions={true},
+  selected={true},
+	title = {Learn to Follow: Decentralized Lifelong Multi-Agent Pathfinding via Planning and Learning},
+	volume = {38},
+	url = {https://ojs.aaai.org/index.php/AAAI/article/view/29704},
+	abstract = {Multi-agent Pathfinding ({MAPF}) problem generally asks to find a set of conflict-free paths for a set of agents confined to a graph and is typically solved in a centralized fashion. Conversely, in this work, we investigate the decentralized {MAPF} setting, when the central controller that possesses all the information on the agents’ locations and goals is absent and the agents have to sequentially decide the actions on their own without having access to the full state of the environment. We focus on the practically important lifelong variant of {MAPF}, which involves continuously assigning new goals to the agents upon arrival to the previous ones. To address this complex problem, we propose a method that integrates two complementary approaches: planning with heuristic search and reinforcement learning through policy optimization. Planning is utilized to construct and re-plan individual paths. We enhance our planning algorithm with a dedicated technique tailored to avoid congestion and increase the throughput of the system. We employ reinforcement learning to discover the collision avoidance policies that effectively guide the agents along the paths. The policy is implemented as a neural network and is effectively trained without any reward-shaping or external guidance. We evaluate our method on a wide range of setups comparing it to the state-of-the-art solvers. The results show that our method consistently outperforms the learnable competitors, showing higher throughput and better ability to generalize to the maps that were unseen at the training stage. Moreover our solver outperforms a rulebased one in terms of throughput and is an order of magnitude faster than a state-of-the-art search-based solver. The code is available at https://github.com/{AIRI}-Institute/learn-to-follow.},
+	eventtitle = {{AAAI} 2024},
+	pages = {17541--17549},
+	booktitle = {Proceedings of the {AAAI} Conference on Artificial Intelligence},
+	author = {Skrynnik, Alexey and Andreychuk, Anton and Nesterova, Maria and Yakovlev, Konstantin and Panov, Aleksandr},
+	date = {2024},
+	keywords = {myconf, scopus, mipt, airi, 70-2021-00138, confastar, frccsc\_other}
+}
+
+@inproceedings{Kirilenko2024,
+  bibtex_show={true},
+  abbr={ICLR},
+  pdf={smm2024.pdf},
+  dimensions={true},
+  selected={true},
+	title = {Object-Centric Learning with Slot Mixture Module},
+	url = {https://openreview.net/forum?id=aBUidW4Nkd},
+	abstract = {Object-centric architectures usually apply a differentiable module to the entire
+feature map to decompose it into sets of entity representations called slots. Some
+of these methods structurally resemble clustering algorithms, where the cluster’s
+center in latent space serves as a slot representation. Slot Attention is an example
+of such a method, acting as a learnable analog of the soft k-means algorithm.
+Our work employs a learnable clustering method based on the Gaussian Mixture
+Model. Unlike other approaches, we represent slots not only as centers of clusters
+but also incorporate information about the distance between clusters and assigned
+vectors, leading to more expressive slot representations. Our experiments demonstrate
+that using this approach instead of Slot Attention improves performance in
+object-centric scenarios, achieving state-of-the-art results in the set property prediction
+task.},
+	eventtitle = {{ICLR} 2024},
+	booktitle = {The Twelfth International Conference on Learning Representations},
+	author = {Kirilenko, Daniil and Vorobyov, Vitaliy and Kovalev, Alexey and Panov, Aleksandr},
+	date = {2024},
+	keywords = {myconf, frccsc, mipt, 20-71-10116, airi, confastar}
+}
+
+@inproceedings{Tsypin2024,
+  bibtex_show={true},
+  abbr={ICLR},
+  pdf={golf2024.pdf},
+  dimensions={true},
+  selected={true},
+	title = {Gradual Optimization Learning for Conformational Energy Minimization},
+	eventtitle = {{ICLR} 2024},
+	url = {https://openreview.net/forum?id=FMMF1a9ifL},
+	booktitle = {The Twelfth International Conference on Learning Representations},
+	author = {Tsypin, Artem and Ugadiarov, Leonid and Khrabrov, Kuzma and Telepov, Alexander and Rumiantsev, Egor and Skrynnik, Alexey and Panov, Aleksandr and Vetrov, Dmitry and Tutubalina, Elena and Kadurin, Artur},
+	date = {2024},
+	keywords = {myconf, frccsc, airi, confastar}
+}
+
+@article{Yudin2024,
+  bibtex_show={true},
+  abbr={EAAI},
+  pdf={eaai2024.pdf},
+  dimensions={true},
+  selected={false},
+	title = {Hierarchical waste detection with weakly supervised segmentation in images from recycling plants},
+	volume = {128},
+	issn = {09521976},
+	url = {https://linkinghub.elsevier.com/retrieve/pii/S0952197623017268},
+	doi = {10.1016/j.engappai.2023.107542},
+	abstract = {Reducing environmental pollution with household waste and emissions from the computing clusters is an urgent technological problem. In our work, we explore both of these aspects: the deep learning application to improve the efficiency of waste recognition on recycling plant’s conveyor, as well as carbon dioxide emission from the computing devices used in this process. To conduct research, we developed an unique open {WaRP} dataset that demonstrates the best diversity among similar industrial datasets and contains more than 10,000 images with 28 different types of recyclable goods (bottles, glasses, card boards, cans, detergents, and canisters). Objects can overlap, be in poor lighting conditions, or significantly distorted. On the {WaRP} dataset, we study training and evaluation of cutting-edge deep neural networks for detection, classification and segmentation tasks. Additionally, we developed a hierarchical neural network approach called H-{YC} with weakly supervised waste segmentation. It provided a notable increase in the detection quality and made it possible to segment images, learning only having class labels, not their masks. Both the suggested hierarchical approach and the {WaRP} dataset have shown great industrial application potential.},
+	pages = {107542},
+	journaltitle = {Engineering Applications of Artificial Intelligence},
+	shortjournal = {{EAAI}},
+	author = {Yudin, Dmitry and Zakharenko, Nikita and Smetanin, Artem and Filonov, Roman and Kichik, Margarita and Kuznetsov, Vladislav and Larichev, Dmitry and Gudov, Evgeny and Budennyy, Semen and Panov, Aleksandr},
+	urldate = {2023-11-20},
+	date = {2024},
+	langid = {english},
+	keywords = {mypub, scopus, mipt, airi, q1scopusprelim}
+}
+
+@article{Zemskova2024,
+  bibtex_show={true},
+  abbr={Access},
+  pdf={skilltron2024.pdf},
+  dimensions={true},
+  selected={true},
+	title = {Interactive Semantic Map Representation for Skill-Based Visual Object Navigation},
+	volume = {12},
+	issn = {2169-3536},
+	url = {https://ieeexplore.ieee.org/document/10477345},
+	doi = {10.1109/ACCESS.2024.3380450},
+	abstract = {Visual object navigation is one of the key tasks in mobile robotics. One of the most important components of this task is the accurate semantic representation of the scene, which is needed to determine and reach a goal object. This paper introduces a new representation of a scene semantic map formed during the embodied agent interaction with the indoor environment. It is based on a neural network method that adjusts the weights of the segmentation model with backpropagation of the predicted fusion loss values during inference on a regular (backward) or delayed (forward) image sequence. We implement this representation into a full-fledged navigation approach called {SkillTron}. The method can select robot skills from end-to-end policies based on reinforcement learning and classic map-based planning methods. The proposed approach makes it possible to form both intermediate goals for robot exploration and the final goal for object navigation. We conduct intensive experiments with the proposed approach in the Habitat environment, demonstrating its significant superiority over state-of-the-art approaches in terms of navigation quality metrics. The developed code and custom datasets are publicly available at github.com/{AIRI}-Institute/skill-fusion.},
+	pages = {44628--44639},
+	journaltitle = {{IEEE} Access},
+	author = {Zemskova, Tatiana and Staroverov, Aleksei and Muravyev, Kirill and Yudin, Dmitry and Panov, Aleksandr},
+	date = {2024},
+	keywords = {mypub, scopus, frccsc, mipt, 20-71-10116, airi, q1scopusprelim}
+}
+
 @article{Kovalev2022,
   bibtex_show={true},
   abbr={Doklady},

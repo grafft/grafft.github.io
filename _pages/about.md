@@ -6,7 +6,7 @@ subtitle: titles.about_subtitle
 
 profile:
   align: right
-  image: photo2023.png
+  image: photo-042024.png
   image_circular: false # crops the image to make it circular
   address: titles.about_address
 

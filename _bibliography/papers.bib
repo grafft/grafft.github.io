@@ -1,4 +1,30 @@
 
+@inproceedings{skrynnik_pogema_2025,
+  bibtex_show={true},
+  abbr={ICLR},
+  dimensions={true},
+  selected={true},
+	title = {{POGEMA}: A Benchmark Platform for Cooperative Multi-Agent Navigation},
+	url = {https://openreview.net/forum?id=6VgwE2tCRm},
+	abstract = {Multi-agent reinforcement learning ({MARL}) has recently excelled in solving challenging cooperative and competitive multi-agent problems in various environments with, mostly, few agents and full observability. Moreover, a range of crucial robotics-related tasks, such as multi-robot navigation and obstacle avoidance, that have been conventionally approached with the classical non-learnable methods (e.g., heuristic search) is currently suggested to be solved by the learning-based or hybrid methods. Still, in this domain, it is hard, not to say impossible, to conduct a fair comparison between classical, learning-based, and hybrid approaches due to the lack of a unified framework that supports both learning and evaluation. To this end, we introduce {POGEMA}, a set of comprehensive tools that includes a fast environment for learning, a generator of problem instances, the collection of pre-defined ones, a visualization toolkit, and a benchmarking tool that allows automated evaluation. We introduce and specify an evaluation protocol defining a range of domain-related metrics computed on the basics of the primary evaluation indicators (such as success rate and path length), allowing a fair multi-fold comparison. The results of such a comparison, which involves a variety of state-of-the-art {MARL}, search-based, and hybrid methods, are presented.},
+	booktitle = {{ICLR} 2025},
+	author = {Skrynnik, Alexey and Andreychuk, Anton and Borzilov, Anatolii and Chernyavskiy, Alexander and Yakovlev, Konstantin and Panov, Aleksandr},
+	year = {2025}
+}
+
+@inproceedings{dzhivelikian_learning_2025,
+  bibtex_show={true},
+  abbr={ICLR},
+  dimensions={true},
+  selected={true},
+	title = {Learning Successor Features with Distributed Hebbian Temporal Memory},
+	url = {https://openreview.net/forum?id=wYJII5BRYU},
+	abstract = {This paper presents a novel approach to address the challenge of online sequence learning for decision making under uncertainty in non-stationary, partially observable environments. The proposed algorithm, Distributed Hebbian Temporal Memory ({DHTM}), is based on the factor graph formalism and a multi-component neuron model. {DHTM} aims to capture sequential data relationships and make cumulative predictions about future observations, forming Successor Features ({SFs}). Inspired by neurophysiological models of the neocortex, the algorithm uses distributed representations, sparse transition matrices, and local Hebbian-like learning rules to overcome the instability and slow learning of traditional temporal memory algorithms such as {RNN} and {HMM}. Experimental results show that {DHTM} outperforms {LSTM}, {RWKV} and a biologically inspired {HMM}-like algorithm, {CSCG}, on non-stationary data sets. Our results suggest that {DHTM} is a promising approach to address the challenges of online sequence learning and planning in dynamic environments.},
+	booktitle = {{ICLR} 2025},
+	author = {Dzhivelikian, Evgenii and Kuderov, Petr and Panov, Aleksandr},
+	year = {2025}
+}
+
 @article{borzilov_rethinking_2025,
   bibtex_show={true},
   abbr={Access},
@@ -142,8 +168,7 @@
 	abstract = {Model predictive control ({MPC}) may provide local motion planning for mobile robotic platforms. The challenging aspect is the analytic representation of collision cost for the case when both the obstacle map and robot footprint are arbitrary. We propose a Neural Potential Field: a neural network model that returns a differentiable collision cost based on robot pose, obstacle map, and robot footprint. The differentiability of our model allows its usage within the {MPC} solver. It is computationally hard to solve problems with a very high number of parameters. Therefore, our architecture includes neural image encoders, which transform obstacle maps and robot footprints into embeddings, which reduce problem dimensionality by two orders of magnitude. The reference data for network training are generated based on algorithmic calculation of a signed distance function. Comparative experiments showed that the proposed approach is comparable with existing local planners: it provides trajectories with outperforming smoothness, comparable path length, and safe distance from obstacles. Experiment on Husky {UGV} mobile robot showed that our approach allows real-time and safe local planning. The code for our approach is presented at https://github.com/cog-isa/{NPField} together with demo video.},
 	booktitle = {2024 IEEE International Conference on Robotics and Automation (ICRA)},
 	author = {Alhaddad, Muhammad and Mironov, Konstantin and Staroverov, Aleksey and Panov, Aleksandr},
-	year = {2024},
-	keywords = {myconf, frccsc, mipt, airi, confastar}
+	year = {2024}
 }
 
 @inproceedings{Skrynnik2024b,

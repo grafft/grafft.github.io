@@ -21,15 +21,15 @@
       institution: Institute for System Analysis of RAS, Moscow, Russia
       year: 2015
       description:
-        - Specialized in modeling of goal-oriented behavior of intelligent agents and their coalitions
-        - Thesis title is ``Investigation of methods, development of models and algorithms for formation of elements of sign-based worldview of the actor''
+        - Specialized in modeling the goal-oriented behavior of intelligent agents and their coalitions
+        - The thesis title is ``Investigation of methods, development of models and algorithms for formation of elements of the sign-based world model of the actor''
     - title: Master’s degree
-      institution: Moscow Institute of Physics and Technology, Department of Applied Mathematics and Management, Dolgoprudny, Russia
+      institution: Moscow Institute of Physics and Technology, Department of Control and Applied Mathematics, Dolgoprudny, Russia
       year: 2011
       description:
-        - Majors are technologies of active databases, computer graphics, game theory and decision making, effective algorithms, decomposition in optimization
+        - Majors are technologies of active databases, computer graphics, game theory, and decision making, effective algorithms, decomposition in optimization
         - Specialized in logical methods (AQ, JSM) of data mining and multi-agent systems
-        - Thesis title is ``Investigation and modeling of group behavior for multifunctional agents''
+        - The thesis title is ``Investigation and modeling of group behavior for multifunctional agents''
     - title: Bachelor of Physics
       institution: Novosibirsk State University, Department of Physics, Novosibirsk, Russia
       year: 2009
@@ -68,7 +68,7 @@
         - Leading non-profit organization in the field of Artificial Intelligence – http://airi.net
         - title: Reinforcement learning in multi-agent systems
           contents: 
-            - Switching algorithms of planning-based and learning-based multi-agent path finding methods
+            - Switching algorithms of planning-based and learning-based multi-agent path-finding methods
             - Monte-Carlo approach in multi-agent systems
         - title: Neural-symbolic integration
           contents: 
@@ -81,9 +81,9 @@
         - Leading academic institute in Computer Science and High-performance computing – http://frccsc.ru
         - title: Cognitive modeling
           contents: 
-            - Psychologically inspired models of human behavior based on theory of sign-based world model
-            - Biologically inspired models of sign components - image, significance and personal meaning
-            - Algorithms of behavior planning and goal setting procedures
+            - Psychologically inspired models of human behavior based on the theory of sign-based world model
+            - Biologically inspired models of sign components - image, significance, and personal meaning
+            - Algorithms of behavior planning and goal-setting procedures
         - title: Machine learning and multi-agent systems
           contents: 
             - The composite logical method to extract cause-effect relationships
@@ -99,7 +99,7 @@
         - title: Applied research in self-driving cars and mobile robotics
           contents: 
             - New framework for behavior planning of self-driven cars based on Apollo-auto
-            - Original methods of neural-based object segmentation, detection, tracking for mobile robots
+            - Original methods of neural-based object segmentation, detection, and tracking for mobile robots
         - title: Reinforcement learning
           contents: 
             - Hierarchical reinforcement learning and learning from demonstrations

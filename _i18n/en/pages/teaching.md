@@ -5,11 +5,15 @@
 * Scientific advisor of PhD these:
   - Petr Kuderov (2024, MIPT, "Development of methods and algorithms for information representation in reinforcement learning using biological principles")
   - Mais Jamal (2024, MIPT, "Development and research of methods and algorithms for adaptive maneuver planning of an unmanned vehicle")
-  - Brian Angulo (2024, MIPT, "Planning the trajectory of a mobile agent, taking into account kinematic constraints, based on classical and learnable methods")
+  - Brian Angulo (2024, MIPT, "Planning the trajectory of a mobile agent, taking into account kinematic constraints, based on classical and learnable methods", co-advising)
   - Alexey Staroverov (2023, MIPT, "Methods and algorithms of learnable visual navigation of mobile robots")
   - Alexey Skynnik (2023, MIPT, "Reinforcement learning method for navigation tasks")
   - Alexey Kovalev (2022, HSE, <a href='https://www.hse.ru/sci/diss/682448753'>"Methods and algorithms of neuro-symbolic scene representation in multimodal tasks"</a>)
 * Scientific advisor of master's these at MIPT:
+  - Denis Vasilyev (2024, "Dynamical distance adaptation in goal-conditioned model-based reinforcement learning")
+  - Alexander Korchemnyi (2024, "Iterative Generation of an agent’s Behavior Plan using a Large Language Model")
+  - Alexander Chernyavskyi (2024, "Neural network approximation of opponent’s model in multi-agent systems")
+  - Nutsu Shiman (2024, "Exploration methods based on replay buffer in model-based reinforcement learning")
   - Georgy Gorbov (2023, "Adaptive maneur planning in Apollo platform")
   - Mikhail Melkumov (2023, "Offline reinforcement learning in interactive planning for road intersection scenarios")
   - Maria Nesterova (2023, "Curriculum reinforcement learning in a multi-agent pathfinding problem for partially observable environments")

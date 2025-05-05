@@ -3,7 +3,7 @@ layout: page
 title: titles.projects
 permalink: /projects/
 description: List of public appearances and completed projects
-nav: true
+nav: false
 nav_order: 2
 display_categories: [talks, projects]
 horizontal: false

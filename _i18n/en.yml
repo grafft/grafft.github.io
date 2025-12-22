@@ -3,12 +3,11 @@ titles:
   blog: blog
   cv: cv
   news: news
-  projects: projects
+  projects: talks
   publications: publications
   s_publications: selected publications
   repositories: repositories
   teaching: teaching
-  talks: talks
   submenus: submenus
   unk: page not found
   about_subtitle: "Head of Cognitive AI Systems laboratory, Moscow, Russia<br/>Head of the Center for Cognitive Modeling, Moscow, Russia"

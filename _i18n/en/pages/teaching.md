@@ -3,6 +3,9 @@
 * Seminar on Intelligent Data Mining (<a href='https://www.hse.ru/en/'>National Research University Higher School of Economics</a>, Faculty of Computer Science)
 * Lectures on Intelligent Dynamic Systems, Theoretical Computer Science, and Intelligent Data Analysis (<a href='https://eng.rudn.ru/?ysclid=lltio4bjo1767975563'>Peoples’ Friendship University of Russia</a>, Department of Computer Science)
 * Scientific advisor of PhD these:
+  - Zoya Volovikova (2025, MIPT, "Research and development of methods and algorithms for multimodal reinforcement learning in complex dynamic environments")
+  - Artem Latyshev (2025, MIPT, "Research and development of reward generation algorithms in model-based reinforcement learning tasks")
+  - Evgenii Dzhivelikian (2025, MIPT, "Development of Bayesian hierarchical temporal memory methods and algorithms for reinforcement learning tasks")
   - Petr Kuderov (2024, MIPT, "Development of methods and algorithms for information representation in reinforcement learning using biological principles")
   - Mais Jamal (2024, MIPT, "Development and research of methods and algorithms for adaptive maneuver planning of an unmanned vehicle")
   - Brian Angulo (2024, MIPT, "Planning the trajectory of a mobile agent, taking into account kinematic constraints, based on classical and learnable methods", co-advising)

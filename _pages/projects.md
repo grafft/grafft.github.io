@@ -1,11 +1,10 @@
 ---
 layout: page
 title: titles.projects
-permalink: /projects/
-description: List of public appearances and completed projects
-nav: false
-nav_order: 2
-display_categories: [talks, projects]
+permalink: /talks/
+description: List of public talks
+nav: true
+nav_order: 6
 horizontal: false
 ---
 

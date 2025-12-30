@@ -3,11 +3,11 @@ layout: page
 title: title1
 description: Лекция по RL в ЮФУ
 importance: 1
-img: assets/img/12.jpg
+img: assets/img/cover1.png
 related_publications: false
 ---
 23 декабря 2025 - Лекция в Южном федерально университете
 
 На лекции рассмотрим основы обучения с подкрепленим и основные группы подходов. Рассмотрим как современные тренды по дообучению языковых моделей с RL, так и основные подходы в робототехнике. Обсудим прикладное использование методов RL.
 
-<a href='assets/pdf/talk231225.jpg'>Ссылка</a> на презентацию.
+<a href='https://grafft.github.io/assets/pdf/talk231225.pdf'>Ссылка</a> на презентацию.

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Лекция 1
+title: Talk 1
 description: Лекция по RL в ЮФУ
 importance: 1
 img: assets/img/cover1.png

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lecture 1
+title: title1
 description: Lecture 123
 importance: 1
 category: talk

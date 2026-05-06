@@ -11,13 +11,18 @@
 - title: Education
   type: time_table
   contents:
+    - title: Doctor of Science in Physics and Mathematics
+      institution: Moscow Institute of Physics and Technology, Moscow, Russia
+      year: 2024
+      description:
+        - Thesis title is Methods and algorithms of neurosymbolic learning and behavior planning for cognitive agents.
     - title: PhD
       institution: Institute for System Analysis of RAS, Moscow, Russia
       year: 2015
       description:
         - Specialized in modeling of goal-oriented behavior of intelligent agents and their coalitions.
         - Thesis title is Investigation of methods, development of models and algorithms for formation of elements of sign-based worldview of the actor.
-    - title: Master’s degree
+    - title: Master's degree
       institution: Moscow Institute of Physics and Technology, Department of Applied Mathematics and Management, Dolgoprudny, Russia
       year: 2011
       description:
@@ -29,7 +34,7 @@
       year: 2009
       description:
         - Majors are operational systems, digital integrated circuits, introduction to CAD, microprocessors, information networks and systems, object-oriented analysis and design.
-        - Specialized in semantic integration of databases. 
+        - Specialized in semantic integration of databases.
         - Thesis title is Semantic integration of biological databases.
 
 - title: Teaching Experience
@@ -47,7 +52,7 @@
       description:
         - Seminar on Intelligent Data Mining.
     - title: Assistant Lecturer
-      institution: Peoples’ Friendship University of Russia, Department of Computer Science, Moscow, Russia
+      institution: Peoples' Friendship University of Russia, Department of Computer Science, Moscow, Russia
       year: 2011 - 2016
       description:
         - Lectures on Intelligent Dynamic Systems, Theoretical Computer Science and Intelligent Data Analysis.
@@ -55,33 +60,76 @@
 - title: Research Experience
   type: time_table
   contents:
-    - title: Principal Research Fellow
-      institution: Artificial Intelligence Research Institute, Neural-symbolic team, Moscow, Russia
+    - title: Principal Research Fellow, Head of Cognitive AI Systems Laboratory
+      institution: Artificial Intelligence Research Institute (AIRI), Moscow, Russia
       year: 2021 - Present
       description:
         - Leading non-profit organization in the field of Artificial Intelligence – http://airi.net.
         - title: Reinforcement learning in multi-agent systems
-          contents: 
+          contents:
             - Switching algorithms of planning-based and learning-based multi-agent path finding methods.
             - Monte-Carlo approach in multi-agent systems.
         - title: Neural-symbolic integration
-          contents: 
+          contents:
             - Disentangled representations and object-oriented world models.
             - Vector symbolic architectures in VQA and robot navigation setting.
-          
+    - title: Head of Cognitive Modeling Center
+      institution: Moscow Institute of Physics and Technology (MIPT), Dolgoprudny, Russia
+      year: 2019 - Present
+      description:
+        - Leading applied activities and commissioned research in reinforcement learning, robotics, and control systems.
+        - Supervising applied research in computer vision and planning for mobile robotics and unmanned vehicles for NKB VS, Integrant, Huawei, Sber.
+    - title: Head of Department of Dynamic Intelligent Systems and Cognitive Research
+      institution: Federal Research Center "Computer Science and Control" of the Russian Academy of Sciences (FRC CSC RAS), Moscow, Russia
+      year: 2011 - 2024
+      description:
+        - Developed various approaches in the field of reinforcement learning.
 
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2024
+      items:
+        - Winner of the Yandex ML Prize 2024 in the Scientific Supervisors category.
+        - Scientific consultant of the Autorobotics team, winner of the Up Great "Level 5" technology competition for unmanned cargo transportation.
+    - year: 2023
+      items:
+        - Led the SkillFusion team to 1st place at the CVPR Habitat competition.
+    - year: 2019
+      items:
+        - Led the CDS team to 1st place at the NeurIPS MineRL competition.
     - year: 2017
-      items: 
-        - Russian Academy of Sciences Medal for Young Scientists
+      items:
+        - Russian Academy of Sciences Medal for Young Scientists.
+
+- title: Academic Service
+  type: time_table
+  contents:
+    - year: 2026
+      items:
+        - Area Chair at NeurIPS 2026
+        - Area Chair at ICML 2026
+        - Area Chair at ICLR 2026
+        - Area Chair at AAAI 2026 (AIA track)
+    - year: 2023 - 2025
+      items:
+        - Reviewer for AAAI 2023, 2024, 2025, 2026; ECAI 2023, 2024, 2025; IROS 2023, 2024, 2025; ICRA 2024; CVPR 2024, 2025; IJCAI 2024; NeurIPS 2024; ICLR 2025; ICAPS 2025; AISTATS 2025; ICML 2025; ICCV 2025; ACL Rolling Review.
+    - year: 2021 - 2022
+      items:
+        - Organizer of the NeurIPS IGLU competition.
+    - year: 2019 - Present
+      items:
+        - Editor of Cognitive Systems Research (Elsevier).
+        - Organizer of annual summer schools for RAAI and AIRI (since 2017).
+    - year: 2015 - 2022
+      items:
+        - Member of the Scientific Council of the Russian Association for Artificial Intelligence (RAAI).
 
 - title: Academic Interests
   type: nested_list
   contents:
     - title: Computer Cognitive Modeling
-      items: 
+      items:
         - Semiotics.
         - Sign-based World Model.
     - title: Embodied AI.
@@ -98,7 +146,7 @@
         - Model-based learning and planning.
         - Transformer-based world models.
         - Structured world models.
-        
+
 - title: Other Interests
   type: list
   contents:
